@@ -71,7 +71,7 @@ inclusao-digital-brasil/
     ├── favicon.png               ícone da aba do navegador
     ├── og-apartheid-digital.png  imagem que aparece ao compartilhar o link
     ├── fonts/                    fonte Poppins (.woff2) e a licença dela
-    └── figura-1 … figura-6       gráficos do Power BI, em .webp (em preparação)
+    └── figura-1 … figura-6       gráficos da análise, em .webp
 ```
 
 O site é HTML, CSS e JavaScript puros, sem framework, sem etapa de build e sem dependências externas. A fonte Poppins (licença SIL Open Font License) fica hospedada em `assets/fonts/`, então o navegador não faz nenhum pedido a terceiros para carregar a página. A única exceção é o Google Analytics, que só é carregado depois que a pessoa aceita o aviso de cookies (veja *Privacidade e Analytics*).
