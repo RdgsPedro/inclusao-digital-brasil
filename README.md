@@ -97,7 +97,7 @@ O site foi montado seguindo uma estratégia de SEO e *link building* para a disc
 - **Palavra-chave principal:** "inclusão digital", com cauda longa como "exclusão digital no Brasil", "o que é inclusão digital", "apartheid digital" e "TIC Domicílios".
 - **Na página:** título com 58 caracteres, meta description com 134, um único H1 e H2 com palavras-chave, FAQ com 7 perguntas, links internos dentro dos textos, imagens com texto alternativo e carregamento preguiçoso, fonte hospedada no próprio site e conteúdo semântico acessível.
 - **Para os buscadores:** `canonical`, Open Graph e Twitter Card, dados estruturados em JSON-LD (`WebSite`, `WebPage`, `Dataset`, `FAQPage` e `Person`) e `sitemap.xml`.
-- **Antes de lançar:** o `<head>` traz `<meta name="robots" content="noindex, nofollow">`. Remova essa linha no lançamento e envie o `sitemap.xml` no Google Search Console.
+- **Indexação:** o site está liberado para os buscadores (sem `noindex`) e o `sitemap.xml` é enviado ao Google Search Console.
 
 ## Privacidade e Analytics
 
